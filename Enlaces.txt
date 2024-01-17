@@ -1,0 +1,3 @@
+https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/What_is_JavaScript
+https://www.aluracursos.com/blog/guia-de-javascript
+https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Lexical_grammar
